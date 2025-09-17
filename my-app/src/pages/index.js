@@ -28,12 +28,12 @@ export default function Home() {
               >
                 Risk Form
               </Link>
-              <Link
+              {/* <Link
                 href="/past-analysis"
                 className="px-3 py-2 rounded-md text-sm font-medium text-blue-100 hover:bg-blue-500 dark:hover:bg-gray-700 hover:text-white transition-colors duration-200"
               >
                 Past Analysis
-              </Link>
+              </Link> */}
               <Link
                 href="/precautions"
                 className="px-3 py-2 rounded-md text-sm font-medium text-blue-100 hover:bg-blue-500 dark:hover:bg-gray-700 hover:text-white transition-colors duration-200"
