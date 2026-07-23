@@ -81,21 +81,7 @@ Users can view
 - Risk Score
 - Risk Category
 - Historical Trends
-- Overall Health Summary
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here after uploading them.
-
-Example:
-
-```
-screenshots/home.png
-screenshots/dashboard.png
-screenshots/risk-form.png
-```
+- Overall Health Summary.
 
 ---
 
